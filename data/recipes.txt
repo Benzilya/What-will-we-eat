@@ -1,26 +1,11 @@
 [
     {
         "id": 0,
-        "name": "mushroom soup"
-    },
-    {
-        "id": 1,
-        "name": "sandwich"
-    },
-    {
-        "id": 2,
-        "name": "cheese soup"
-    },
-    {
-        "id": 3,
-        "name": "bumble coffee"
-    },
-    {
-        "id": 4,
-        "name": "steak barbecue"
-    },
-    {
-        "id": 5,
-        "name": "ice tea"
+        "name": "sss",
+        "structure": [
+            "zxczx",
+            "ddfdf",
+            "qqwqw"
+        ]
     }
 ]
