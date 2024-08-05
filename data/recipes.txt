@@ -1,18 +1,6 @@
 [
     {
         "id": 0,
-        "name": "asdas"
-    },
-    {
-        "id": 1,
-        "name": "dfdfdfdf"
-    },
-    {
-        "id": 2,
-        "name": "soup"
-    },
-    {
-        "id": 3,
-        "name": "sdfsdfs"
+        "name": "Cheese soup"
     }
 ]
