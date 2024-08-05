@@ -7,5 +7,14 @@
             "ddfdf",
             "qqwqw"
         ]
+    },
+    {
+        "id": 1,
+        "name": "lulumba",
+        "structure": [
+            "jopa",
+            "perec",
+            "sosiska"
+        ]
     }
 ]
