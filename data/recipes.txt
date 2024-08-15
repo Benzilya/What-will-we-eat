@@ -16,5 +16,24 @@
             "perec",
             "sosiska"
         ]
+    },
+    {
+        "id": 2,
+        "name": "roasted potatoes",
+        "structure": [
+            "potatoes",
+            "olive oil",
+            "salt",
+            "provencal herbs"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "sdkfsdk",
+        "structure": [
+            "xc",
+            "asdas",
+            "qwe"
+        ]
     }
 ]
